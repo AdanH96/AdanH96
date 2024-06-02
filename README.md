@@ -1,7 +1,7 @@
 # ¡Hola! Soy AdanHSB
 
 <div style="text-align: center; font-family: 'Arial', sans-serif;">
-  <h1 style="color: #7D3C98; font-size: 36px;">¡Hola! Soy AdanHSB</h1>
+ 
   <h2 style="color: #5B2C6F; font-size: 28px;">Desarrollador de Software</h2>
   <p style="color: #2874A6; font-size: 18px; line-height: 1.6;">
     Apasionado por la tecnología y la programación. Me especializo en el desarrollo de aplicaciones web y móviles utilizando las últimas tecnologías.
