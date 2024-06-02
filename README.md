@@ -1,6 +1,5 @@
-# ¡Hola! Soy [AdanHSB]
+# ¡Hola! Soy AdanHSB
 
-```html
 <style>
   .container {
     text-align: center;
@@ -40,7 +39,7 @@
   <p>Apasionado por la tecnología y la programación. Me especializo en el desarrollo de aplicaciones web y móviles utilizando las últimas tecnologías.</p>
   
   <h2>Mis Habilidades</h2>
-    <div class="skills">
+  <div class="skills">
     <div class="skill">HTML</div>
     <div class="skill">CSS</div>
     <div class="skill">Dart</div>
@@ -52,9 +51,8 @@
     <div class="skill">SQL</div>
   </div>
   
-
-  
   <h2>Contáctame</h2>
-  <p>Puedes contactarme a través de mi <a href="adanh96dam@gmail.com">correo electrónico</a></p>
+  <p>Puedes contactarme a través de mi <a href="mailto:adanh96dam@gmail.com">correo electrónico</a></p>
 </div>
+
 
