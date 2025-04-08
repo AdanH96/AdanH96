@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hola, soy Adan 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Adán | AHDevLab 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Desarrollador+multiplataforma;Apasionado+por+la+innovación+y+el+código;Construyendo+soluciones+reales;Siempre+explorando+nuevas+tecnologías">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Desarrollador+multiplataforma;Creador+de+proyectos+cross-platform;En+constante+crecimiento+y+evolución;Bienvenido+a+mi+repositorio 👋">
   </a>
 </p>
 
@@ -10,11 +10,12 @@
 
 ## 🚀 Sobre mí
 
-- 💼 Desarrollador multiplataforma enfocado en soluciones eficientes y escalables
-- 🎓 En formación continua en centros educativos y proyectos propios
-- 🤝 Colaborando en proyectos freelance y personales
-- 🔎 Abierto a nuevas oportunidades laborales y retos tecnológicos
-- 🌐 Con interés en desarrollo web, móvil y arquitecturas backend modernas
+- 💼 Desarrollador multiplataforma enfocado en la calidad de código, buenas prácticas y resultados reales.
+- 👨‍💻 Actualmente impulsando proyectos móviles y web bajo la firma **AHDevLab** (licencia de Google Developer).
+- 🎯 Experiencia trabajando en proyectos propios y colaborativos, incluyendo despliegue y mantenimiento.
+- 📦 Más de **90 commits activos y pushes continuos** a lo largo del 2025, reflejando una dedicación sólida al desarrollo y mejora constante.
+- 🧪 Explorando y aplicando tecnologías modernas tanto en backend como frontend.
+- 💡 Interesado en soluciones escalables, desarrollo mobile con Flutter, y arquitecturas limpias.
 
 ---
 
@@ -35,8 +36,9 @@
 
 ---
 
-### ⚙️ Herramientas y entornos
+### ⚙️ Entornos y herramientas
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -45,12 +47,13 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🔄 Actividad en curso
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adanh96&include_all_commits=true&count_private=true&show_icons=true&theme=radical&line_height=25" width="460"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adanh96&layout=compact&langs_count=8&theme=radical" width="370"/>
-</p>
+- 🚀 Subidas continuas de actualizaciones, mejoras y nuevas funcionalidades.
+- 🔁 Los **pushes semanales** reflejan mi implicación real con el desarrollo.
+- 📦 Mantenedor activo de [repositorios en crecimiento](https://github.com/adanh96).
+- 📂 Despliegues recientes en Google Play Console y pruebas internas activas.
+- 🔧 Automatización, refactorizaciones limpias y manejo de dependencias complejas.
 
 ---
 
@@ -73,6 +76,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="250"/>
 </p>
-
-
-
