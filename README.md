@@ -60,4 +60,3 @@
 
 <br><br>
 
-<p align="center"><i>“Desarrollo real con foco técnico, no humo”</i></p>
