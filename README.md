@@ -1,8 +1,8 @@
-<h1 align="center"><b>Hola, soy Adán | AHDevLab 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Adan | AHDevLab 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Desarrollador+multiplataforma;Creador+de+proyectos+cross-platform;En+constante+crecimiento+y+evolución;Bienvenido+a+mi+repositorio 👋">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Desarrollador+multiplataforma;Especializado+en+Flutter,+JS+y+Node.js;Enfocado+en+productos+de+alto+impacto;Integrando+hardware+y+software+de+forma+eficiente">
   </a>
 </p>
 
@@ -10,12 +10,11 @@
 
 ## 🚀 Sobre mí
 
-- 💼 Desarrollador multiplataforma enfocado en la calidad de código, buenas prácticas y resultados reales.
-- 👨‍💻 Actualmente impulsando proyectos móviles y web bajo la firma **AHDevLab** (licencia de Google Developer).
-- 🎯 Experiencia trabajando en proyectos propios y colaborativos, incluyendo despliegue y mantenimiento.
-- 📦 Más de **90 commits activos y pushes continuos** a lo largo del 2025, reflejando una dedicación sólida al desarrollo y mejora constante.
-- 🧪 Explorando y aplicando tecnologías modernas tanto en backend como frontend.
-- 💡 Interesado en soluciones escalables, desarrollo mobile con Flutter, y arquitecturas limpias.
+- 💼 Desarrollador multiplataforma con base técnica sólida, trabajando bajo el nombre profesional **AHDevLab**.
+- ⚙️ Experiencia tanto en software como en programación orientada a hardware (Raspberry Pi, Arduino).
+- 🌐 En constante participación en proyectos de **gran escala y colaboración técnica**.
+- 📱 Especial interés en apps móviles modernas, backend estructurado, y automatización de procesos.
+- 🔍 Siempre explorando nuevas tecnologías para mejorar la eficiencia, la escalabilidad y la experiencia de usuario.
 
 ---
 
@@ -36,24 +35,23 @@
 
 ---
 
-### ⚙️ Entornos y herramientas
+### ⚙️ Herramientas y entornos
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🔄 Actividad en curso
+## 🔌 Experiencia adicional
 
-- 🚀 Subidas continuas de actualizaciones, mejoras y nuevas funcionalidades.
-- 🔁 Los **pushes semanales** reflejan mi implicación real con el desarrollo.
-- 📦 Mantenedor activo de [repositorios en crecimiento](https://github.com/adanh96).
-- 📂 Despliegues recientes en Google Play Console y pruebas internas activas.
-- 🔧 Automatización, refactorizaciones limpias y manejo de dependencias complejas.
+- 🔧 Programación orientada a hardware: automatización y control físico mediante scripts (GPIO, sensores, actuadores).
+- 🧩 Participación en proyectos colaborativos con enfoque en escalabilidad real.
+- 📦 Experiencia en despliegues técnicos y pruebas de apps Android con Google Play Console.
+- 📱 Testeo e iteración constante sobre productos reales con feedback de usuarios.
 
 ---
 
