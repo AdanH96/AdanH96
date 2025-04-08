@@ -1,24 +1,25 @@
-<h1 align="center"><b>Hola, soy Adan | AHDevLab 👨‍💻</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">👋 Hola, soy Adan · <strong>Full Stack Developer</strong></h1>
+<p align="center"><strong>Desarrollador multiplataforma & creador de soluciones reales bajo el sello <code>AHDevLab</code></strong></p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Desarrollador+multiplataforma;Especializado+en+Flutter,+JS+y+Node.js;Enfocado+en+productos+de+alto+impacto;Integrando+hardware+y+software+de+forma+eficiente">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apasionado+por+la+tecnología+y+la+innovación;Construyendo+proyectos+con+impacto+real;Colaborando+en+desarrollos+a+gran+escala;Software+con+hardware,+todo+conectado">
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 💼 Sobre mí
 
-- 💼 Desarrollador multiplataforma con base técnica sólida, trabajando bajo el nombre profesional **AHDevLab**.
-- ⚙️ Experiencia tanto en software como en programación orientada a hardware (Raspberry Pi, Arduino).
-- 🌐 En constante participación en proyectos de **gran escala y colaboración técnica**.
-- 📱 Especial interés en apps móviles modernas, backend estructurado, y automatización de procesos.
-- 🔍 Siempre explorando nuevas tecnologías para mejorar la eficiencia, la escalabilidad y la experiencia de usuario.
+- 🔧 **Full Stack Developer** especializado en apps móviles, web y arquitecturas backend modernas.
+- ⚙️ Desarrollo de software orientado a hardware (Raspberry Pi, Arduino, controladores físicos).
+- 🤝 Colaborando activamente en **proyectos a gran escala** en entornos profesionales.
+- 🚀 Enfocado en productos funcionales, mantenibles y con despliegues reales.
+- 🧠 Apasionado por optimizar flujos, integrar tecnologías y resolver problemas de verdad.
 
 ---
 
-## 🛠️ Tecnologías que manejo
+## 🛠️ Stack tecnológico
 
 ### 🧠 Lenguajes & Frameworks
 
@@ -35,27 +36,17 @@
 
 ---
 
-### ⚙️ Herramientas y entornos
+### 🧰 Herramientas y entornos
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 🔌 Experiencia adicional
-
-- 🔧 Programación orientada a hardware: automatización y control físico mediante scripts (GPIO, sensores, actuadores).
-- 🧩 Participación en proyectos colaborativos con enfoque en escalabilidad real.
-- 📦 Experiencia en despliegues técnicos y pruebas de apps Android con Google Play Console.
-- 📱 Testeo e iteración constante sobre productos reales con feedback de usuarios.
-
----
-
-## 🤝 Conecta conmigo
+## 📡 Conecta conmigo
 
 <p align="left">
   <a href="https://linkedin.com/in/adanh96" target="_blank">
